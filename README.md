@@ -1,4 +1,3 @@
-# Javascript-Projects
-This repo contains different projects that are written in HTML/CSS/Vanilla JS
+# Etch A Sketch
 
-1. Etch A Sketch
+Live Demo: 
