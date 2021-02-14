@@ -1,3 +1,2 @@
 # Etch A Sketch
-
-Live Demo: 
+[Live Demo](https://vigorous-stonebraker-919081.netlify.app/)
