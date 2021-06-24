@@ -1,2 +1,4 @@
-# Etch A Sketch
+# Etch A Sketch Game
+
+### The user can change colors, resize and clear the grid with respective buttons
 [Live Demo](https://vigorous-stonebraker-919081.netlify.app/)
