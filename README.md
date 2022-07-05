@@ -1,4 +1,9 @@
-# Etch A Sketch Game
+# Etch A Sketch
 
-### The user can change colors, resize and clear the grid with respective buttons
-[Live Demo](https://etchasketchgame.netlify.app/)
+### JavaScript implementation of the classic Etch a Sketch game.
+The player can 
+- change colors [all black or multicolored sketching]
+- resize the grid
+- clear the grid 
+
+[Click to play the game](https://etchasketchgame.netlify.app/)
